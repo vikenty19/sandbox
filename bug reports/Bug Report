@@ -1,0 +1,15 @@
+BUG REPORT
+title:
+Koel | home screen | UI bag
+Steps to reproduce:
+
+Log in to the Koel on the mobile browser
+Go to Homepage https://bbb.testpro.io/#!/home 
+Scroll the page and you see appears Ui bug
+Expected result:
+
+WHEN you open the Home screen Ui appears correctly
+
+Actual result:
+
+WHEN you open the Home screen appears Ui bug
