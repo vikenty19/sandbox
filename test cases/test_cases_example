@@ -1,0 +1,22 @@
+TEST CASES
+test case number 123-75
+TITLE:
+Koel app | Info panel (Lyrics, Artist, Album) |Lyrics should be displayed for a playing song
+
+Description
+GIVEN The user is logged in
+AND on the 'All songs' page
+AND selected song is reproducing
+
+Test Step
+1 WHEN user clicks om INFO button on the music player
+Expected Result
+THEN INFO panel with tags "Lyrics", "Artist", "Album" appears
+
+2 AND the user select the "Lyrics" tag
+Expected Result
+THEN lyrics of the song appears in the "Lyrics" field of the INFO panel
+
+
+
+
