@@ -3,4 +3,4 @@ create branches
 rename, delete branches
 using add,commit and push send file to remote repo
 create pull requests
-get updated info on local repo using pull comand
+get updated info on local repo using pull command
